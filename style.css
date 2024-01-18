@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 980px;
+    margin: 0 auto;
+}
+.nav-title{
+    background-color: #4CB8C4;
+    text-align: center;
+    padding: 40px 0px;
+}
+.info{
+    display: flex;
+    width: 360px;
+    background-color: lightblue;
+    justify-content: center;
+    padding: 20px;
+}
+.info-f{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
